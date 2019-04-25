@@ -7,7 +7,7 @@ En esta pagina se podrá ver una selección de mis trabajos
 ### Maestria en Explotacion de Datos 
 
 - [Clustering](Clusters.html)
-
+- [Analisis Exploratorio de la evolucion del dolar y el IPC](Presentacion TP Dolar-IPC.nb.html)
 
 ### Datos de Miercoles
 
