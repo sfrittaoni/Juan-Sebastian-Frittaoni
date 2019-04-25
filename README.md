@@ -14,6 +14,6 @@ En esta pagina se podrá ver una selección de mis trabajos
 - [Datos de Miercoles 17 de mayo](datosdemiercoles_17-4.html)
 
 
-### Kagle
+### Kaggle
 
 - [Regresion logistica en Titanic](Titanic-logic.html)
