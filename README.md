@@ -15,3 +15,5 @@ En esta pagina se podrá ver una selección de mis trabajos
 
 
 ### Kagle
+
+- [Regresion logistica en Titanic](Titanic-logic.html)
