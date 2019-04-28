@@ -12,6 +12,7 @@ En esta pagina se podrá ver una selección de mis trabajos
 ### Datos de Miercoles
 
 - [Datos de Miercoles 17 de mayo](datosdemiercoles_17-4.html)
+- [Datos de Miercoles 24 de mayo Shiny app] (https://sfrittaoni.shinyapps.io/datosdemiercoles/)
 
 
 ### Kaggle
