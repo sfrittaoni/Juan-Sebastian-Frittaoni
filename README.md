@@ -1,6 +1,6 @@
 ## Porfolio
 
-En esta pagina se podrá ver una selección de mis trabajos
+En esta página se podrá ver una selección de mis trabajos
 
 
 
